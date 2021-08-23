@@ -3,7 +3,7 @@
 
 ## Used technologies:
 * html
-* css
+* java script
 * tailwindcss library
 
 ### Try it [here](https://pavelpashkovich.github.io/click-counter/)!
